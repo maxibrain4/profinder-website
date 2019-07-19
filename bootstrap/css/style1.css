@@ -1,0 +1,56 @@
+
+
+* {
+    color: teal;
+    font-size: 20px;
+}
+
+
+h1 {
+    color : red;
+}
+
+p{
+    color: cyan;
+    font-size: 16px;
+}
+
+.para2{
+    color :grey;
+    font-size: 30px;
+    border: 2px solid yellow;
+    padding: 5px;
+}
+
+#header3 {
+    color :magenta;
+    font-size: 20px;
+    border: 3px solid black;
+    padding: 50px;
+}
+
+.header{
+    background: pink;
+}
+
+div {
+    background: yellow;
+}
+
+.para {
+    background: rebeccapurple;
+}
+
+div > h2 {
+    color: brown;
+}
+
+a  {
+    text-decoration: underline;
+    color: violet;
+}
+
+div a {
+    /* text-decoration: none; */
+    color: aqua;
+}

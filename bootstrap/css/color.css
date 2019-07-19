@@ -1,0 +1,65 @@
+
+body {
+    /* font-family: 'Courier New'; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  */
+}
+
+h2 {
+    color : white;
+    opacity: 0.1;
+    font-size: 120px;
+}
+.para2{
+    background:red;
+}
+#para1:{
+    color: green;
+}
+    
+}
+p {
+    font-size : 20px;
+    font-weight: bold;
+    letter-spacing: 0.5em;
+    word-spacing: 1em;
+    text-align: right;
+}
+
+p:first-letter {
+    font-size: 200px;
+    color : pink;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: green;
+    font-size: 30px;
+    border: 2px solid black;
+}
+
+h1  {
+    color: rgba(232, 234, 241, 0.7);
+    font-weight: 900;
+    text-transform: uppercase;
+    text-indent : 20px;
+}
+
+h1,h3 {
+    background-color: red;
+    width: 70px;
+    height: 100px;
+    overflow: scrol;
+}
+
+div {
+    background-color: teal;
+}
+
+div a {
+    color: #ffffff;
+    background-color: #efde23;
+    text-decoration: blink;
+}
