@@ -83,3 +83,23 @@ ul#bar li a{
  color:white; 
  font-size:14px;
 }
+#goal{
+  margin-left:80px;
+  margin-top:50px;
+  color:#424242;
+  font-size:20px;
+}
+img{
+  width:259px;
+}
+#card{
+height:290px;
+width:260px;
+margin-left:25px;
+}
+#cardmother{
+    display:flex;
+    margin-left:50px;
+    padding-bottom:50px;
+    border-bottom:1px solid #ccc;
+}
